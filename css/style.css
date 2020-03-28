@@ -270,7 +270,6 @@ input[type=submit] {
     cursor: pointer;
 }
 @media (max-width: 1600px) {
-
     .n {
         margin-left: 300px;
     }
@@ -323,7 +322,18 @@ input[type=submit] {
     .n {
         margin-left: 150px;
     }
-
+}
+@media (max-width: 812px) {
+    .e {
+        flex-direction: column;
+    }
+    .n {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    .scrollToTop {
+        display: none;
+    }
 }
 @media (max-width: 768px) {
     body {
