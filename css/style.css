@@ -280,13 +280,13 @@ input[type=submit] {
 }
 @media (max-width: 1366px) {
     .logo {
-        left: 100px;
+        left: 80px;
     }
     .SignUp {
-        right: 100px;
+        right: 80px;
     }
     #header nav {
-        left: 600px;
+        left: 510px;
     }
     .n {
         margin-left: 300px;
@@ -312,12 +312,17 @@ input[type=submit] {
     .burger {
         display: block;
     }
+    #AboutUs {
+        height: 500px;
+        flex-direction: column;
+    }
     .sq1 {
         margin-left: -70px;
     }
     .n {
         margin-left: 150px;
     }
+
 }
 @media (max-width: 768px) {
     body {
@@ -333,10 +338,7 @@ input[type=submit] {
     .centerText div {
         font-size: 14px;
     }
-    #AboutUs {
-        height: 500px;
-        flex-direction: column;
-    }
+
     .sq1 {
         margin-left: -155px;
         margin-top: 50px;
