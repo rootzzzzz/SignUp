@@ -317,7 +317,8 @@ input[type=submit] {
         flex-direction: column;
     }
     .sq1 {
-        margin-left: -70px;
+        margin-left: -115px;
+        margin-top: 30px;
     }
     .n {
         margin-left: 150px;
@@ -341,7 +342,7 @@ input[type=submit] {
 
     .sq1 {
         margin-left: -155px;
-        margin-top: 50px;
+        margin-top: 30px;
     }
     .AboutUsTitle h3 {
         font-size: 28px;
